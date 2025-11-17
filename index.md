@@ -240,7 +240,7 @@ I'm interested in discussing:
 ### Contact Information
 - **Email**: [lucasbraga461@gmail.com](mailto:lucasbraga461@gmail.com)
 - **LinkedIn**: [linkedin.com/in/lucasbraga461](https://linkedin.com/in/lucasbraga461)
-- **ORCID**: [0009-0007-5397-5652](https://orcid.org/0009-0007-5652)
+- **ORCID**: [0009-0007-5397-5652](https://orcid.org/0009-0007-5397-5652)
 - **GitHub**: [github.com/lucasbraga461](https://github.com/lucasbraga461)
 
 ---
