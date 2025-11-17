@@ -60,6 +60,8 @@ Performance Achievements:
 **Technologies**: TensorFlow, LightGBM, XGBoost, AWS ECS, Fargate, ALB, Docker, Terraform  
 **Impact**: Comprehensive comparative study providing production deployment guidelines for real-time ML systems at scale.
 
+---
+
 ### IEEE Access Peer Reviewer
 
 **Official Recognition**: Recognized by IEEE Access as a peer reviewer for AI/ML papers (ISSN: 2169-3536)
@@ -149,6 +151,8 @@ Tool Features:
 
 **Impact**: Widely-read guide helping data science practitioners select appropriate evaluation metrics for production ML systems.
 
+---
+
 ## Professional Experience Highlights
 
 ### [Wolt](https://wolt.com) ([DoorDash International](https://doordash.com)) - Lead Data Scientist *(January 2025 - Present)*
@@ -175,7 +179,6 @@ Tool Features:
 
 ## Media Coverage & Recognition
 
-### Featured In Media
 - [TechTimes.com](https://www.techtimes.com/articles/310995/20250624/how-data-science-leader-lucas-braga-drives-major-business-impact-top-tech-companies.htm) - *"How Data Science Leader Lucas Braga Drives Major Business Impact at Top Tech Companies"*
 - [UOL.com.br](https://natelinha.uol.com.br/super-viral/2025/11/07/brasileiro-lucas-benevides-e-braga-lidera-iniciativas-globais-de-inteligencia-artificial-na-europa-e-se-destaca-com-publicacoes-cientificas-e-livro-internacional-233571.php) - *"Brazilian Lucas Benevides e Braga Leads Global AI Initiatives in Europe"*
 - [R7.com](https://cartaodevisita.r7.com/conteudo/58723/da-ciencia-de-dados-a-producao-lucas-braga-ensina-como-levar-inteligencia-artificial-para-a-nuvem) - *"From Data Science to Production: Lucas Braga Teaches How to Take AI to the Cloud"*
@@ -185,32 +188,32 @@ Tool Features:
 
 ## Technical Expertise
 
-### **Algorithms & Models**
+#### **Algorithms & Models**
 - **Deep Learning**: CNN, LSTM, Transformers, Neural Networks
 - **Machine Learning**: LightGBM, XGBoost, Random Forest, Ensemble Methods
 - **Specialized**: Active Learning, Imbalanced Classification, Multi-LLM Systems
 
-### **ML Frameworks & Libraries**
+#### **ML Frameworks & Libraries**
 - **ML Frameworks**: TensorFlow, PyTorch, Scikit-Learn
 - **Web Frameworks**: Flask, Streamlit
 - **Data Processing**: PySpark, Pandas, NumPy
-- **APIs**: OpenAI, Perplexity, Gemini
+- **LLMs**: OpenAI, Perplexity, Gemini
 
-### **Cloud Platforms**
+#### **Cloud Platforms**
 - **AWS**: ECS, Fargate, ALB, EC2, S3, Lambda, Auto Scaling
 - **GCP**: Cloud Run, Storage, Compute Engine, BigQuery
 
-### **DevOps & Infrastructure**
+#### **DevOps & Infrastructure**
 - **Containerization**: Docker
 - **Infrastructure as Code**: Terraform
-- **CI/CD**: Jenkins, GitHub Actions
+- **CI/CD**: Airflow, Flytem Jenkins, GitHub Actions
 
-### **Data & Analytics**
-- **Databases**: Snowflake, PostgreSQL, BigQuery
-- **Visualization**: Jupyter, Matplotlib
+#### **Data & Analytics**
+- **Databases**: Snowflake, PostgreSQL, BigQuery, Redshift
+- **Visualization**: Jupyter, Matplotlib, Seaborn
 - **Applications**: Real-time ML, Experimentation
 
-### **Programming Languages**
+#### **Programming Languages**
 - **Primary**: Python, SQL
 - **Scripting**: Bash
 
@@ -235,10 +238,10 @@ I'm interested in discussing:
 - **Technical Writing** and knowledge sharing in the data science community
 
 ### Contact Information
-- **📧 Email**: [lucasbraga461@gmail.com](mailto:lucasbraga461@gmail.com)
-- **💼 LinkedIn**: [linkedin.com/in/lucasbraga461](https://linkedin.com/in/lucasbraga461)
-- **🔬 ORCID**: [0009-0007-5397-5652](https://orcid.org/0009-0007-5397-5652)
-- **👤 GitHub**: [github.com/lucasbraga461](https://github.com/lucasbraga461)
+- **Email**: [lucasbraga461@gmail.com](mailto:lucasbraga461@gmail.com)
+- **LinkedIn**: [linkedin.com/in/lucasbraga461](https://linkedin.com/in/lucasbraga461)
+- **ORCID**: [0009-0007-5397-5652](https://orcid.org/0009-0007-5652)
+- **GitHub**: [github.com/lucasbraga461](https://github.com/lucasbraga461)
 
 ---
 

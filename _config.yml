@@ -12,8 +12,8 @@ author:
   orcid: https://orcid.org/0009-0007-5397-5652
 
 # Theme
-theme: jekyll-theme-minimal
-# Alternative themes: jekyll-theme-cayman, jekyll-theme-slate
+theme: jekyll-theme-cayman
+# Alternative themes: jekyll-theme-minimal, jekyll-theme-slate, jekyll-theme-architect
 
 # Jekyll settings
 markdown: kramdown
