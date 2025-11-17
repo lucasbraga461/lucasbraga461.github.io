@@ -1,7 +1,18 @@
-# Lucas Braga - Data Science Portfolio
-**Lead Data Scientist @ Wolt (DoorDash International) | Published Author | IEEE Researcher**
-
 > *"Bridging cutting-edge research with production-ready machine learning solutions"*
+
+---
+
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Research Publications](#research-publications)
+3. [Book Publication](#book-publication)
+4. [Technical Articles & Projects](#technical-articles--projects)
+5. [Professional Experience Highlights](#professional-experience-highlights)
+6. [Media Coverage & Recognition](#media-coverage--recognition)
+7. [Technical Expertise](#technical-expertise)
+8. [Research Interests](#research-interests)
+9. [Contact Information](#contact-information)
 
 ---
 
@@ -227,15 +238,6 @@ Tool Features:
 - **Cloud Machine Learning**: Scalable ML architectures and deployment patterns for production systems
 
 ---
-
-## Let's Connect & Collaborate
-
-I'm interested in discussing:
-- **Machine Learning Research** and practical applications in industry
-- **Cloud Architecture** design patterns for scalable ML systems
-- **Active Learning** methodologies for data-efficient training
-- **Production ML Deployment** best practices and lessons learned
-- **Technical Writing** and knowledge sharing in the data science community
 
 ### Contact Information
 - **Email**: [lucasbraga461@gmail.com](mailto:lucasbraga461@gmail.com)
