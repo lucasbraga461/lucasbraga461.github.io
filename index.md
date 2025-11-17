@@ -38,11 +38,11 @@ Lucas Braga serves as **Lead Data Scientist** at Wolt (DoorDash International), 
 
 <div>
 
-### Active Learning for Imbalanced Classification
-*IEEE Access Publication + Production-Ready Framework*
+<h3>Active Learning for Imbalanced Classification</h3>
+<p><em>IEEE Access Publication + Production-Ready Framework</em></p>
 
-**Publication**: [IEEE Access](https://ieeexplore.ieee.org/document/11215701) *(DOI: 10.1109/ACCESS.2025.3624650)*  
-**Repository**: [github.com/lucasbraga461/active-learning](https://github.com/lucasbraga461/active-learning)
+<p><strong>Publication</strong>: <a href="https://ieeexplore.ieee.org/document/11215701">IEEE Access</a> <em>(DOI: 10.1109/ACCESS.2025.3624650)</em><br>
+<strong>Repository</strong>: <a href="https://github.com/lucasbraga461/active-learning">github.com/lucasbraga461/active-learning</a></p>
 
 </div>
 </div>
@@ -66,11 +66,11 @@ Research Impact:
 
 <div>
 
-### Real-Time ML Fraud Detection System
-*IEEE Access Publication + AWS Deployment Study*
+<h3>Real-Time ML Fraud Detection System</h3>
+<p><em>IEEE Access Publication + AWS Deployment Study</em></p>
 
-**Publication**: [IEEE Access](https://ieeexplore.ieee.org/document/11199034) *(DOI: 10.1109/ACCESS.2025.3620247)*  
-**Repository**: [github.com/lucasbraga461/realtime-ml-fraud-detection](https://github.com/lucasbraga461/realtime-ml-fraud-detection)
+<p><strong>Publication</strong>: <a href="https://ieeexplore.ieee.org/document/11199034">IEEE Access</a> <em>(DOI: 10.1109/ACCESS.2025.3620247)</em><br>
+<strong>Repository</strong>: <a href="https://github.com/lucasbraga461/realtime-ml-fraud-detection">github.com/lucasbraga461/realtime-ml-fraud-detection</a></p>
 
 </div>
 </div>
@@ -107,12 +107,12 @@ Performance Achievements:
 
 <div>
 
-### Deploying Secure Data Science Applications in the Cloud
-*Peer-Reviewed Technical Book | Apress/Springer Nature*
+<h3>Deploying Secure Data Science Applications in the Cloud</h3>
+<p><em>Peer-Reviewed Technical Book | Apress/Springer Nature</em></p>
 
-**Publication**: [Apress/Springer Book](https://link.springer.com/book/9798868817144) *(September 2025)*  
-**Purchase**: [Amazon](https://www.amazon.com/Deploying-Secure-Science-Applications-Cloud/dp/B0FCKTNL3W)  
-**Repository**: [Complete Implementation Code](https://github.com/lucasbraga461/deploy-secure-ds-apps-book)
+<p><strong>Publication</strong>: <a href="https://link.springer.com/book/9798868817144">Apress/Springer Book</a> <em>(September 2025)</em><br>
+<strong>Purchase</strong>: <a href="https://www.amazon.com/Deploying-Secure-Science-Applications-Cloud/dp/B0FCKTNL3W">Amazon</a><br>
+<strong>Repository</strong>: <a href="https://github.com/lucasbraga461/deploy-secure-ds-apps-book">Complete Implementation Code</a></p>
 
 </div>
 </div>
@@ -221,13 +221,15 @@ Tool Features:
 
 <div>
 
-### Featured In Major Media Outlets
+<h3>Featured In Major Media Outlets</h3>
 
-**International Recognition for Data Science Leadership & AI Innovation**
+<p><strong>International Recognition for Data Science Leadership & AI Innovation</strong></p>
 
-- [TechTimes.com](https://www.techtimes.com/articles/310995/20250624/how-data-science-leader-lucas-braga-drives-major-business-impact-top-tech-companies.htm) - *"How Data Science Leader Lucas Braga Drives Major Business Impact at Top Tech Companies"*
-- [UOL.com.br](https://natelinha.uol.com.br/super-viral/2025/11/07/brasileiro-lucas-benevides-e-braga-lidera-iniciativas-globais-de-inteligencia-artificial-na-europa-e-se-destaca-com-publicacoes-cientificas-e-livro-internacional-233571.php) - *"Brazilian Lucas Benevides e Braga Leads Global AI Initiatives in Europe"*
-- [R7.com](https://cartaodevisita.r7.com/conteudo/58723/da-ciencia-de-dados-a-producao-lucas-braga-ensina-como-levar-inteligencia-artificial-para-a-nuvem) - *"From Data Science to Production: Lucas Braga Teaches How to Take AI to the Cloud"*
+<ul>
+<li><a href="https://www.techtimes.com/articles/310995/20250624/how-data-science-leader-lucas-braga-drives-major-business-impact-top-tech-companies.htm">TechTimes.com</a> - <em>"How Data Science Leader Lucas Braga Drives Major Business Impact at Top Tech Companies"</em></li>
+<li><a href="https://natelinha.uol.com.br/super-viral/2025/11/07/brasileiro-lucas-benevides-e-braga-lidera-iniciativas-globais-de-inteligencia-artificial-na-europa-e-se-destaca-com-publicacoes-cientificas-e-livro-internacional-233571.php">UOL.com.br</a> - <em>"Brazilian Lucas Benevides e Braga Leads Global AI Initiatives in Europe"</em></li>
+<li><a href="https://cartaodevisita.r7.com/conteudo/58723/da-ciencia-de-dados-a-producao-lucas-braga-ensina-como-levar-inteligencia-artificial-para-a-nuvem">R7.com</a> - <em>"From Data Science to Production: Lucas Braga Teaches How to Take AI to the Cloud"</em></li>
+</ul>
 
 </div>
 </div>
