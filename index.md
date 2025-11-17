@@ -27,17 +27,25 @@ Lucas Braga serves as **Lead Data Scientist** at Wolt (DoorDash International), 
 - **Media Recognition**: Featured in TechTimes, UOL Brazil, R7 for AI leadership
 - **Industry Impact**: €96M+ in GMV gains, €5M+ fraud prevention, 2000+ hours/month automation savings
 - **Education**: MS Applied Statistics & Data Science (Kansas University, 2020)
-- **Certifications**: Google Associate Cloud Engineer (2024), AWS ML Specialty (2020)
+- **Certifications**: <img src="assets/images/gcp.png" alt="Google Cloud Certified" style="height: 20px; vertical-align: middle;"> Google Associate Cloud Engineer (2024), <img src="assets/images/aws.png" alt="AWS Certified" style="height: 20px; vertical-align: middle;"> AWS ML Specialty (2020)
 
 ---
 
 ## Research Publications
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<img src="assets/images/active-learning.jpeg" alt="Active Learning for Imbalanced Classification Research Paper" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+
+<div>
 
 ### Active Learning for Imbalanced Classification
 *IEEE Access Publication + Production-Ready Framework*
 
 **Publication**: [IEEE Access](https://ieeexplore.ieee.org/document/11215701) *(DOI: 10.1109/ACCESS.2025.3624650)*  
 **Repository**: [github.com/lucasbraga461/active-learning](https://github.com/lucasbraga461/active-learning)
+
+</div>
+</div>
 
 ```
 Research Impact:
@@ -53,11 +61,19 @@ Research Impact:
 
 ---
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<img src="assets/images/operational-benchmark.jpeg" alt="Real-Time ML Fraud Detection System Research Paper" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+
+<div>
+
 ### Real-Time ML Fraud Detection System
 *IEEE Access Publication + AWS Deployment Study*
 
 **Publication**: [IEEE Access](https://ieeexplore.ieee.org/document/11199034) *(DOI: 10.1109/ACCESS.2025.3620247)*  
 **Repository**: [github.com/lucasbraga461/realtime-ml-fraud-detection](https://github.com/lucasbraga461/realtime-ml-fraud-detection)
+
+</div>
+</div>
 
 ```
 Performance Achievements:
@@ -86,12 +102,20 @@ Performance Achievements:
 
 ## Book Publication
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<img src="assets/images/book-cover.jpeg" alt="Deploying Secure Data Science Applications in the Cloud - Book Cover" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+
+<div>
+
 ### Deploying Secure Data Science Applications in the Cloud
 *Peer-Reviewed Technical Book | Apress/Springer Nature*
 
 **Publication**: [Apress/Springer Book](https://link.springer.com/book/9798868817144) *(September 2025)*  
 **Purchase**: [Amazon](https://www.amazon.com/Deploying-Secure-Science-Applications-Cloud/dp/B0FCKTNL3W)  
 **Repository**: [Complete Implementation Code](https://github.com/lucasbraga461/deploy-secure-ds-apps-book)
+
+</div>
+</div>
 
 ```
 Book Coverage:
@@ -138,6 +162,8 @@ Technical Architecture:
 **Live Application**: [Sample Size Calculator](http://18.231.252.63:8080/)  
 **Repository**: [github.com/lucasbraga461/sample-size-calculator](https://github.com/lucasbraga461/sample-size-calculator)
 
+<img src="assets/images/sample-size-app-screenshot.png" alt="Sample Size Calculator Application Interface" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 10px 0;">
+
 ```
 Tool Features:
 ├── Live web application deployed on Google Cloud Run
@@ -166,21 +192,21 @@ Tool Features:
 
 ## Professional Experience Highlights
 
-### [Wolt](https://wolt.com) ([DoorDash International](https://doordash.com)) - Lead Data Scientist *(January 2025 - Present)*
+### <img src="assets/images/wolt-logo.jpeg" alt="Wolt Logo" style="height: 24px; vertical-align: middle;"> [Wolt](https://wolt.com) ([DoorDash International](https://doordash.com)) - Lead Data Scientist *(January 2025 - Present)*
 **Global technology company operating in 35+ countries**
 - **LLM Automation**: Deployed customer support conversation tagging system, saving 2000+ hours/month of manual work
 - **Market Intelligence**: Built NLP-powered cuisine classification models for 1M+ restaurants across 25+ countries
 - **Merchant Intelligence**: Reduced false positives in merchant classification from 42% to 9% in 2 months using Active Learning
 - **Strategic Experimentation**: Conducted offline experimentation on cuisine strategy, developing global positioning frameworks to maintain competitive advantage in market value
 
-### [Delivery Hero](https://deliveryhero.com) - Staff Data Scientist / Manager *(2019 - 2024)*
+### <img src="assets/images/delivery-hero-logo.png" alt="Delivery Hero Logo" style="height: 24px; vertical-align: middle;"> [Delivery Hero](https://deliveryhero.com) - Staff Data Scientist / Manager *(2019 - 2024)*
 **Global leader in food delivery operating in 70+ countries | Berlin-based, €10B+ market cap**
 - **Business Impact**: Generated €96M+ annual GMV through payment optimization in Middle East
 - **Fraud Prevention**: Prevented €5M+ in fraudulent transactions across international markets
 - **Credit Risk**: Reduced BNPL default rates from 12% to 5% in UAE, enabling 30% higher revenue
 - **Team Leadership**: Led and mentored 3 data scientists across fraud detection and credit risk
 
-### [DHL](https://dhl.com) - Data Scientist *(2015 - 2019)*
+### <img src="assets/images/dhl-logo.png" alt="DHL Logo" style="height: 24px; vertical-align: middle;"> [DHL](https://dhl.com) - Data Scientist *(2015 - 2019)*
 **World's leading logistics company in 220+ countries | €81B+ revenue**
 - **Process Automation**: Streamlined operations through automated reporting pipelines and workflow optimization
 - **Operational Efficiency**: Automated invoice digitization and controlling workflows
@@ -190,43 +216,60 @@ Tool Features:
 
 ## Media Coverage & Recognition
 
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<img src="assets/images/media-tech-times.png" alt="TechTimes Media Coverage - How Data Science Leader Lucas Braga Drives Major Business Impact at Top Tech Companies" style="width: 250px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+
+<div>
+
+### Featured In Major Media Outlets
+
+**International Recognition for Data Science Leadership & AI Innovation**
+
 - [TechTimes.com](https://www.techtimes.com/articles/310995/20250624/how-data-science-leader-lucas-braga-drives-major-business-impact-top-tech-companies.htm) - *"How Data Science Leader Lucas Braga Drives Major Business Impact at Top Tech Companies"*
 - [UOL.com.br](https://natelinha.uol.com.br/super-viral/2025/11/07/brasileiro-lucas-benevides-e-braga-lidera-iniciativas-globais-de-inteligencia-artificial-na-europa-e-se-destaca-com-publicacoes-cientificas-e-livro-internacional-233571.php) - *"Brazilian Lucas Benevides e Braga Leads Global AI Initiatives in Europe"*
 - [R7.com](https://cartaodevisita.r7.com/conteudo/58723/da-ciencia-de-dados-a-producao-lucas-braga-ensina-como-levar-inteligencia-artificial-para-a-nuvem) - *"From Data Science to Production: Lucas Braga Teaches How to Take AI to the Cloud"*
+
+</div>
+</div>
 
 ---
 
 
 ## Technical Expertise
 
-#### **Algorithms & Models**
-- **Deep Learning**: CNN, LSTM, Transformers, Neural Networks
-- **Machine Learning**: LightGBM, XGBoost, Random Forest, Ensemble Methods
-- **Specialized**: Active Learning, Imbalanced Classification, Multi-LLM Systems
+### Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2F2F2F?style=flat-square&logo=lightgbm&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-#### **ML Frameworks & Libraries**
-- **ML Frameworks**: TensorFlow, PyTorch, Scikit-Learn
-- **Web Frameworks**: Flask, Streamlit
-- **Data Processing**: PySpark, Pandas, NumPy
-- **LLMs**: OpenAI, Perplexity, Gemini
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-#### **Cloud Platforms**
-- **AWS**: ECS, Fargate, ALB, EC2, S3, Lambda, Auto Scaling
-- **GCP**: Cloud Run, Storage, Compute Engine, BigQuery
+### Data & Analytics
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-#### **DevOps & Infrastructure**
-- **Containerization**: Docker
-- **Infrastructure as Code**: Terraform
-- **CI/CD**: Airflow, Flytem Jenkins, GitHub Actions
-
-#### **Data & Analytics**
-- **Databases**: Snowflake, PostgreSQL, BigQuery, Redshift
-- **Visualization**: Jupyter, Matplotlib, Seaborn
-- **Applications**: Real-time ML, Experimentation
-
-#### **Programming Languages**
-- **Primary**: Python, SQL
-- **Scripting**: Bash
+### Development & Visualization
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 ---
 
