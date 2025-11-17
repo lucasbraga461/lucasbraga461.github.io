@@ -48,7 +48,7 @@ Lucas Braga serves as **Lead Data Scientist** at Wolt (DoorDash International), 
 </div>
 
 ```
-Research Impact:
+Key Findings:
 ├── 6.57% F1 improvement over passive learning with champion strategy
 ├── 300-600% F1 gains in fraud detection applications
 ├── 75 unique configurations with comprehensive experimental validation
@@ -76,7 +76,7 @@ Research Impact:
 </div>
 
 ```
-Performance Achievements:
+Benchmarking Results:
 ├── 12 ML/DL models compared (CNN, LSTM, Transformer, Ensemble)
 ├── 3 AWS deployment architectures benchmarked (EC2, ECS Fargate, ECS+ALB)
 ├── 1000+ requests/second throughput with auto-scaling
