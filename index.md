@@ -155,14 +155,20 @@ Technical Architecture:
 
 ---
 
-### Statistical Sample Size Calculator
-*Towards Data Science Article + Live Production Tool*
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<img src="assets/images/sample-size-app-screenshot.png" alt="Sample Size Calculator Application Interface" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
 
-**Article**: [Towards Data Science](https://towardsdatascience.com/mastering-sample-size-calculations-75afcddd2ff3)  
-**Live Application**: [Sample Size Calculator](http://18.231.252.63:8080/)  
-**Repository**: [github.com/lucasbraga461/sample-size-calculator](https://github.com/lucasbraga461/sample-size-calculator)
+<div>
 
-<img src="assets/images/sample-size-app-screenshot.png" alt="Sample Size Calculator Application Interface" style="width: 100%; max-width: 600px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3); margin: 10px 0;">
+<h3>Statistical Sample Size Calculator</h3>
+<p><em>Towards Data Science Article + Live Production Tool</em></p>
+
+<p><strong>Article</strong>: <a href="https://towardsdatascience.com/mastering-sample-size-calculations-75afcddd2ff3">Towards Data Science</a><br>
+<strong>Live Application</strong>: <a href="https://huggingface.co/spaces/lucasbraga461/streamlit_sample_size_calculator">Sample Size Calculator</a><br>
+<strong>Repository</strong>: <a href="https://github.com/lucasbraga461/sample-size-calculator">github.com/lucasbraga461/sample-size-calculator</a></p>
+
+</div>
+</div>
 
 ```
 Tool Features:
@@ -179,14 +185,14 @@ Tool Features:
 
 ---
 
-### ML Model Evaluation Framework
-*Towards Data Science Article - Classification Metrics Guide*
+### Classification Model Evaluation Metrics
+*Towards Data Science Article - ML Metrics Guide*
 
 **Article**: [Towards Data Science](https://towardsdatascience.com/metrics-to-evaluate-a-classification-machine-learning-model-f05f1facd569)
 
-**Focus**: Comprehensive framework for classification model assessment covering precision, recall, F1-score, AUC-ROC, and business-specific metrics with practical implementation examples.
+**Focus**: Guide covering precision, recall, F1-score, AUC-ROC, and business-specific metrics with practical implementation examples.
 
-**Impact**: Widely-read guide helping data science practitioners select appropriate evaluation metrics for production ML systems.
+**Impact**: Widely-read guide helping data science practitioners select appropriate evaluation metrics for classification models.
 
 ---
 
