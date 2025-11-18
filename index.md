@@ -18,7 +18,7 @@
 
 ## Overview
 
-Lucas Braga serves as **Lead Data Scientist** at Wolt (DoorDash International), bringing over a decade of experience in data science at leading global companies. His work encompasses advanced machine learning, experimentation, LLM-powered business solutions, production-scale fraud detection, and merchant intelligence systems deployed across 35+ international markets.
+Lucas Braga serves as **Lead Data Scientist** at Wolt (DoorDash International), **specializing in bridging complex AI technology with practical business solutions**. Bringing over a decade of experience in data science at leading global companies, his work encompasses advanced machine learning, experimentation, LLM-powered business solutions, production-scale fraud detection, and merchant intelligence systems deployed across 35+ international markets.
 
 ### Career Highlights
 - **Current Role**: Lead Data Scientist at Wolt (DoorDash International) - January 2025
@@ -199,21 +199,21 @@ Tool Features:
 ## Professional Experience Highlights
 
 ### <img src="assets/images/wolt-logo.jpeg" alt="Wolt Logo" style="height: 24px; vertical-align: middle;"> [Wolt](https://wolt.com) ([DoorDash International](https://doordash.com)) - Lead Data Scientist *(January 2025 - Present)*
-**Global technology company operating in 35+ countries**
+**Global technology company operating in 35+ countries | Berlin-based, DoorDash market cap: $100B+**
 - **LLM Automation**: Deployed customer support conversation tagging system, saving 2000+ hours/month of manual work
 - **Market Intelligence**: Built NLP-powered cuisine classification models for 1M+ restaurants across 25+ countries
 - **Merchant Intelligence**: Reduced false positives in merchant classification from 42% to 9% in 2 months using Active Learning
 - **Strategic Experimentation**: Conducted offline experimentation on cuisine strategy, developing global positioning frameworks to maintain competitive advantage in market value
 
 ### <img src="assets/images/delivery-hero-logo.png" alt="Delivery Hero Logo" style="height: 24px; vertical-align: middle;"> [Delivery Hero](https://deliveryhero.com) - Staff Data Scientist / Manager *(2019 - 2024)*
-**Global leader in food delivery operating in 70+ countries | Berlin-based, €10B+ market cap**
+**Global leader in food delivery operating in 70+ countries | Berlin, Germany, €10B+ market cap**
 - **Business Impact**: Generated €96M+ annual GMV through payment optimization in Middle East
 - **Fraud Prevention**: Prevented €5M+ in fraudulent transactions across international markets
 - **Credit Risk**: Reduced BNPL default rates from 12% to 5% in UAE, enabling 30% higher revenue
 - **Team Leadership**: Led and mentored 3 data scientists across fraud detection and credit risk
 
 ### <img src="assets/images/dhl-logo.png" alt="DHL Logo" style="height: 24px; vertical-align: middle;"> [DHL](https://dhl.com) - Data Scientist *(2015 - 2019)*
-**World's leading logistics company in 220+ countries | €81B+ revenue**
+**World's leading logistics company in 220+ countries | Frankfurt, Germany, Deutsche Post DHL market cap: €50B+**
 - **Process Automation**: Streamlined operations through automated reporting pipelines and workflow optimization
 - **Operational Efficiency**: Automated invoice digitization and controlling workflows
 - **Profitability Analysis**: Identified unprofitable accounts, supporting senior leadership in contract renegotiation
