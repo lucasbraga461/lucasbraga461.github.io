@@ -1,4 +1,4 @@
-> *"Bridging cutting-edge research with production-ready machine learning solutions"*
+> *"Bridging complex AI technology with practical business solutions that drive real-world results"*
 
 ---
 
