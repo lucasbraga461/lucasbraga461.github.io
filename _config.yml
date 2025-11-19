@@ -25,7 +25,13 @@ plugins:
 
 # SEO settings
 lang: en_US
-logo: # Add logo URL if you have one
+logo: /assets/images/lucas-braga-logo.png
+
+# Favicon
+favicon: /assets/images/favicon.png
+
+# Social media preview image
+image: /assets/images/social-preview.png
 
 # Google Analytics (optional - add your tracking ID)
 # google_analytics: UA-XXXXXXXXX-X
