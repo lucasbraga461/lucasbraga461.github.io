@@ -1,3 +1,6 @@
+<link rel="icon" type="image/x-icon" href="/favicon.ico">
+<link rel="icon" type="image/png" href="/assets/images/favicon.png">
+
 > *"Bridging complex AI technology with practical business solutions that drive real-world results"*
 
 ---
