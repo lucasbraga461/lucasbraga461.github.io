@@ -25,10 +25,11 @@ Lucas Braga serves as **Lead Data Scientist** at Wolt (DoorDash International), 
 
 ### Career Highlights
 - **Current Role**: Lead Data Scientist at Wolt (DoorDash International) - January 2025
+- **Experience**: 10+ years as Data Scientist across multiple large global corporations
+- **Industry Impact**: €100M+ GMV impact, 2000+ hours/month automation savings
 - **Published Book Author**: ["Deploying Secure Data Science Applications in the Cloud"](https://link.springer.com/book/9798868817144) *(Apress/Springer, 2025)*
 - **Research Publications**: 2 IEEE Access papers (2025) + **Official IEEE Peer Reviewer** (8+ papers)
 - **Media Recognition**: Featured in TechTimes, UOL Brazil, R7 for AI leadership
-- **Industry Impact**: €96M+ in GMV gains, €5M+ fraud prevention, 2000+ hours/month automation savings
 - **Education**: MS Applied Statistics & Data Science (Kansas University, 2020)
 - **Certifications**: <img src="assets/images/gcp.png" alt="Google Cloud Certified" style="height: 20px; vertical-align: middle;"> Google Associate Cloud Engineer (2024), <img src="assets/images/aws.png" alt="AWS Certified" style="height: 20px; vertical-align: middle;"> AWS ML Specialty (2020)
 
