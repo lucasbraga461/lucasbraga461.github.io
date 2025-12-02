@@ -8,12 +8,12 @@
 ## Table of Contents
 
 1. [Overview](#overview)
-2. [Research Publications](#research-publications)
-3. [Book Publication](#book-publication)
-4. [Technical Articles & Projects](#technical-articles--projects)
-5. [Professional Experience Highlights](#professional-experience-highlights)
-6. [Media Coverage & Recognition](#media-coverage--recognition)
-7. [Technical Expertise](#technical-expertise)
+2. [Professional Experience Highlights](#professional-experience-highlights)
+3. [Technical Expertise](#technical-expertise)
+4. [Book Publication](#book-publication)
+5. [Research Publications](#research-publications)
+6. [Technical Articles & Projects](#technical-articles--projects)
+7. [Media Coverage & Recognition](#media-coverage--recognition)
 8. [Research Interests](#research-interests)
 9. [Contact Information](#contact-information)
 
@@ -32,6 +32,100 @@ Lucas Braga serves as **Lead Data Scientist** at Wolt (DoorDash International), 
 - **Media Recognition**: Featured in TechTimes, UOL Brazil, R7 for AI leadership
 - **Education**: MS Applied Statistics & Data Science (Kansas University, 2020)
 - **Certifications**: <img src="assets/images/gcp.png" alt="Google Cloud Certified" style="height: 20px; vertical-align: middle;"> Google Associate Cloud Engineer (2024), <img src="assets/images/aws.png" alt="AWS Certified" style="height: 20px; vertical-align: middle;"> AWS ML Specialty (2020)
+
+---
+
+## Professional Experience Highlights
+
+### <img src="assets/images/wolt-logo.jpeg" alt="Wolt Logo" style="height: 24px; vertical-align: middle;"> [Wolt](https://wolt.com) ([DoorDash International](https://doordash.com)) - Lead Data Scientist *(January 2025 - Present)*
+**Global technology company operating in 35+ countries | Berlin-based, DoorDash market cap: $100B+**
+- **LLM Automation**: Deployed customer support conversation tagging system, saving 2000+ hours/month of manual work
+- **Market Intelligence**: Built NLP-powered cuisine classification models for 1M+ restaurants across 25+ countries
+- **Merchant Intelligence**: Reduced false positives in merchant classification from 42% to 9% in 2 months using Active Learning
+- **Strategic Experimentation**: Conducted offline experimentation on cuisine strategy, developing global positioning frameworks to maintain competitive advantage in market value
+
+### <img src="assets/images/delivery-hero-logo.png" alt="Delivery Hero Logo" style="height: 24px; vertical-align: middle;"> [Delivery Hero](https://deliveryhero.com) - Staff Data Scientist / Manager *(2019 - 2024)*
+**Global leader in food delivery operating in 70+ countries | Berlin, Germany, €10B+ market cap**
+- **Business Impact**: Generated €100M+ annual GMV through payment optimization in Middle East
+- **Fraud Prevention**: Prevented €5M+ in fraudulent transactions across international markets
+- **Credit Risk**: Reduced BNPL default rates from 12% to 5% in UAE, enabling 30% higher revenue
+- **Team Leadership**: Led and mentored 3 data scientists across fraud detection and credit risk
+
+### <img src="assets/images/dhl-logo.png" alt="DHL Logo" style="height: 24px; vertical-align: middle;"> [DHL](https://dhl.com) - Data Scientist *(2015 - 2019)*
+**World's leading logistics company in 220+ countries | Frankfurt, Germany, Deutsche Post DHL market cap: €50B+**
+- **Process Automation**: Streamlined operations through automated reporting pipelines and workflow optimization
+- **Operational Efficiency**: Automated invoice digitization and controlling workflows
+- **Profitability Analysis**: Identified unprofitable accounts, supporting senior leadership in contract renegotiation
+
+---
+
+## Technical Expertise
+
+### Machine Learning & AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2F2F2F?style=flat-square&logo=lightgbm&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### Data & Analytics
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Development & Visualization
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+---
+
+## Book Publication
+
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
+<img src="assets/images/book-cover.jpeg" alt="Deploying Secure Data Science Applications in the Cloud - Book Cover" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
+
+<div>
+
+<h3>Deploying Secure Data Science Applications in the Cloud</h3>
+<p><em>Peer-Reviewed Technical Book | Apress/Springer Nature</em></p>
+
+<p><strong>Publication</strong>: <a href="https://link.springer.com/book/9798868817144">Apress/Springer Book</a> <em>(September 2025)</em><br>
+<strong>Purchase</strong>: <a href="https://www.amazon.com/Deploying-Secure-Science-Applications-Cloud/dp/B0FCKTNL3W">Amazon</a><br>
+<strong>Repository</strong>: <a href="https://github.com/lucasbraga461/deploy-secure-ds-apps-book">Complete Implementation Code</a></p>
+
+</div>
+</div>
+
+```
+Book Coverage:
+├── 13 practical chapters (VMs → Serverless architectures)
+├── Multi-cloud strategies (AWS ECS Fargate + Google Cloud Run)
+├── Security best practices (SSL/TLS, authentication, data protection)
+├── CI/CD pipelines with Jenkins for data science workflows
+└── Infrastructure as Code with Terraform automation
+```
+
+**Technologies**: AWS, GCP, Docker, Nginx, Jenkins, Streamlit, Flask, Terraform  
+**Peer Review**: Technically reviewed by cloud architecture and data science deployment experts  
+**Impact**: Comprehensive guide bridging the gap between data science development and secure production deployment across multiple cloud platforms.
 
 ---
 
@@ -104,38 +198,6 @@ Benchmarking Results:
 
 ---
 
-## Book Publication
-
-<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
-<img src="assets/images/book-cover.jpeg" alt="Deploying Secure Data Science Applications in the Cloud - Book Cover" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-
-<div>
-
-<h3>Deploying Secure Data Science Applications in the Cloud</h3>
-<p><em>Peer-Reviewed Technical Book | Apress/Springer Nature</em></p>
-
-<p><strong>Publication</strong>: <a href="https://link.springer.com/book/9798868817144">Apress/Springer Book</a> <em>(September 2025)</em><br>
-<strong>Purchase</strong>: <a href="https://www.amazon.com/Deploying-Secure-Science-Applications-Cloud/dp/B0FCKTNL3W">Amazon</a><br>
-<strong>Repository</strong>: <a href="https://github.com/lucasbraga461/deploy-secure-ds-apps-book">Complete Implementation Code</a></p>
-
-</div>
-</div>
-
-```
-Book Coverage:
-├── 13 practical chapters (VMs → Serverless architectures)
-├── Multi-cloud strategies (AWS ECS Fargate + Google Cloud Run)
-├── Security best practices (SSL/TLS, authentication, data protection)
-├── CI/CD pipelines with Jenkins for data science workflows
-└── Infrastructure as Code with Terraform automation
-```
-
-**Technologies**: AWS, GCP, Docker, Nginx, Jenkins, Streamlit, Flask, Terraform  
-**Peer Review**: Technically reviewed by cloud architecture and data science deployment experts  
-**Impact**: Comprehensive guide bridging the gap between data science development and secure production deployment across multiple cloud platforms.
-
----
-
 ## Technical Articles & Projects
 
 ### Website Quality Scoring Engine
@@ -198,31 +260,6 @@ Tool Features:
 
 **Impact**: Widely-read guide helping data science practitioners select appropriate evaluation metrics for classification models.
 
----
-
-## Professional Experience Highlights
-
-### <img src="assets/images/wolt-logo.jpeg" alt="Wolt Logo" style="height: 24px; vertical-align: middle;"> [Wolt](https://wolt.com) ([DoorDash International](https://doordash.com)) - Lead Data Scientist *(January 2025 - Present)*
-**Global technology company operating in 35+ countries | Berlin-based, DoorDash market cap: $100B+**
-- **LLM Automation**: Deployed customer support conversation tagging system, saving 2000+ hours/month of manual work
-- **Market Intelligence**: Built NLP-powered cuisine classification models for 1M+ restaurants across 25+ countries
-- **Merchant Intelligence**: Reduced false positives in merchant classification from 42% to 9% in 2 months using Active Learning
-- **Strategic Experimentation**: Conducted offline experimentation on cuisine strategy, developing global positioning frameworks to maintain competitive advantage in market value
-
-### <img src="assets/images/delivery-hero-logo.png" alt="Delivery Hero Logo" style="height: 24px; vertical-align: middle;"> [Delivery Hero](https://deliveryhero.com) - Staff Data Scientist / Manager *(2019 - 2024)*
-**Global leader in food delivery operating in 70+ countries | Berlin, Germany, €10B+ market cap**
-- **Business Impact**: Generated €96M+ annual GMV through payment optimization in Middle East
-- **Fraud Prevention**: Prevented €5M+ in fraudulent transactions across international markets
-- **Credit Risk**: Reduced BNPL default rates from 12% to 5% in UAE, enabling 30% higher revenue
-- **Team Leadership**: Led and mentored 3 data scientists across fraud detection and credit risk
-
-### <img src="assets/images/dhl-logo.png" alt="DHL Logo" style="height: 24px; vertical-align: middle;"> [DHL](https://dhl.com) - Data Scientist *(2015 - 2019)*
-**World's leading logistics company in 220+ countries | Frankfurt, Germany, Deutsche Post DHL market cap: €50B+**
-- **Process Automation**: Streamlined operations through automated reporting pipelines and workflow optimization
-- **Operational Efficiency**: Automated invoice digitization and controlling workflows
-- **Profitability Analysis**: Identified unprofitable accounts, supporting senior leadership in contract renegotiation
-
----
 
 ## Media Coverage & Recognition
 
@@ -246,44 +283,6 @@ Tool Features:
 
 ---
 
-
-## Technical Expertise
-
-### Machine Learning & AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2F2F2F?style=flat-square&logo=lightgbm&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=xgboost&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-### Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-### Data & Analytics
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=google-bigquery&logoColor=white)
-![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazon-redshift&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-### Development & Visualization
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
----
 
 
 ## Research Interests
